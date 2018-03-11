@@ -1,38 +1,30 @@
 ---
-title: Hello World
+title: 片头
+date: 2018-03-10 23:20:37
+tags:
+categories:
+  - Dairy
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+虽然现在是个码农的工作，但要说真正开始写代码，也实际是从16年算起，而且那个时候写的也还磕磕绊绊的，尝试都非常浅，而且多是些皮毛。而如今，入职都已经半年多了，从对一切都感到陌生，渐渐摸索到了新的东西。开始看技术博客，试着读GitHub上的源码，有时会发现好多经典的文章都是出自同一人之手。
 
-### Create a new post
+最近在看runloop相关的知识，也在恶补iOS UI开发相关的知识，不知什么时候收藏了一位叫ibireme的前辈的博客，闲来无事，就翻看他的博客，结果发现他竟然就是YYKit的作者！我对YYKit早有耳闻，心中还想着什么时候有空了一定通读一遍，没想到作者的博客已经在我的收藏夹中沉睡这么久了，真是有眼不识泰山啊。难捺不住激动的心情，想要快去翻翻大神的博客，看看他到底是如何成长的。
 
-``` bash
-$ hexo new "My New Post"
-```
+令人意外的，读他的那些非技术文章，感觉作者是个很普通的二次元男生，而就是他在不言不语之间，他一个人开发出了YYKit这一整套工具。2012年，ibireme本科毕业，仅仅在一年多之后，写出了YYKit。说他是中国iOS最优秀的开源贡献者，应该不算过分吧。13年，我可能才刚开始用苹果手机，用c语言还写不好结构体，同是九零后，实在惭愧。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+博客中还有一处有趣的地方，在他开源后没多久（一个月），喵神竟然跑到他的博客下留了言，讨论的是NSArray中被实现却没暴露的API。作为后来者看到，觉得真是奇观啊，像神仙聊天一样。不知道他们是原本那就认识，还是因为当时喵神也是受到开源工作吸引才过去的。
 
-### Run server
+博客的数量很少，很快就翻到了底部，开头几篇是博客系统测试，还有日常吐槽什么的。直到有一篇，ibireme记录了自己在iPhone上做调试的经历：
+>今天突然想试着学学开发iPhone程序，当然首先要能把编译好的程序放到机子里(我只有一个iTouch3)
 
-``` bash
-$ hexo server
-```
+中间大概是一些越过开发者账号的方法，这可能是ibireme对iOS开发的第一次尝试吧？关键在于文章的最后，他自己说道
+>看看我以后还有兴趣的话就继续学一下了~谁知道呢。。。
 
-More info: [Server](https://hexo.io/docs/server.html)
+这篇文章的时间是10年九月，在ibireme写下这篇博文的时候，他可能没想过会在三年后，开源YYKit这样一份代码吧，而如今YYKit已经有了11.6k的star了。看到上面那句话，总会觉得，人生真是奇妙啊，没有人知道未来会发生什么，不经意间做的某件事，某个决定，说不定就会影响自己的一生呢？就像评论里说的：
+>哇.感觉像是回放了电影的片头
 
-### Generate static files
+我想起王小波的话：
+>我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。
+我觉得自己会永远生猛下去，什么也锤不了我。
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+我算是机缘巧合来到了当前的岗位吧，心里也希望着自己能成为一名优秀的开发者。哪怕现在我还有好多东西没有学会，甚至不知道它们的存在，但是我也希望在未来的某一天，当我回头的时候,看到多年前的自己，也会意识到：这，就是电影开始的地方。
